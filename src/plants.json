@@ -1,0 +1,678 @@
+{
+  "data": [
+    {
+      "id": 1211,
+      "common_name": "begonia",
+      "scientific_name": [
+        "Begonia 'Martha Stewart'"
+      ],
+      "other_name": [],
+      "cycle": "Herbaceous Perennial",
+      "watering": "Average",
+      "sunlight": [
+        "part shade",
+        "part sun/part shade"
+      ],
+      "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/1211_begonia_martha_stewart/og/52599838828_d48aa4283c_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/1211_begonia_martha_stewart/regular/52599838828_d48aa4283c_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/1211_begonia_martha_stewart/medium/52599838828_d48aa4283c_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/1211_begonia_martha_stewart/small/52599838828_d48aa4283c_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/1211_begonia_martha_stewart/thumbnail/52599838828_d48aa4283c_b.jpg"
+      }
+    },
+    {
+      "id": 1212,
+      "common_name": "iron cross begonia",
+      "scientific_name": [
+        "Begonia masoniana"
+      ],
+      "other_name": [],
+      "cycle": "Herbaceous Perennial",
+      "watering": "Average",
+      "sunlight": [
+        "part sun/part shade",
+        "filtered shade"
+      ],
+      "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/1212_begonia_masoniana/og/29865980861_27d35f6447_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/1212_begonia_masoniana/regular/29865980861_27d35f6447_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/1212_begonia_masoniana/medium/29865980861_27d35f6447_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/1212_begonia_masoniana/small/29865980861_27d35f6447_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/1212_begonia_masoniana/thumbnail/29865980861_27d35f6447_b.jpg"
+      }
+    },
+    {
+      "id": 1213,
+      "common_name": "begonia",
+      "scientific_name": [
+        "Begonia 'Penny Lahn'"
+      ],
+      "other_name": [],
+      "cycle": "Herbaceous Perennial",
+      "watering": "Average",
+      "sunlight": [
+        "part shade",
+        "full shade"
+      ],
+      "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/1213_begonia_penny_lahn/og/52496552436_073086053b_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/1213_begonia_penny_lahn/regular/52496552436_073086053b_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/1213_begonia_penny_lahn/medium/52496552436_073086053b_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/1213_begonia_penny_lahn/small/52496552436_073086053b_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/1213_begonia_penny_lahn/thumbnail/52496552436_073086053b_b.jpg"
+      }
+    },
+    {
+      "id": 1214,
+      "common_name": "rex begonia",
+      "scientific_name": [
+        "Begonia rex-cultorum"
+      ],
+      "other_name": [],
+      "cycle": "Herbaceous Perennial",
+      "watering": "Average",
+      "sunlight": [
+        "part shade",
+        "part sun/part shade"
+      ],
+      "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/1214_begonia_rex-cultorum/og/28485232700_2b71265572_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/1214_begonia_rex-cultorum/regular/28485232700_2b71265572_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/1214_begonia_rex-cultorum/medium/28485232700_2b71265572_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/1214_begonia_rex-cultorum/small/28485232700_2b71265572_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/1214_begonia_rex-cultorum/thumbnail/28485232700_2b71265572_b.jpg"
+      }
+    },
+    {
+      "id": 1215,
+      "common_name": "rex begonia",
+      "scientific_name": [
+        "Begonia rex-cultorum 'Super Curl'"
+      ],
+      "other_name": [],
+      "cycle": "Herbaceous Perennial",
+      "watering": "Average",
+      "sunlight": [
+        "part shade",
+        "part sun/part shade"
+      ],
+      "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/1215_begonia_rex-cultorum_super_curl/og/28152488224_06e2aca626_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/1215_begonia_rex-cultorum_super_curl/regular/28152488224_06e2aca626_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/1215_begonia_rex-cultorum_super_curl/medium/28152488224_06e2aca626_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/1215_begonia_rex-cultorum_super_curl/small/28152488224_06e2aca626_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/1215_begonia_rex-cultorum_super_curl/thumbnail/28152488224_06e2aca626_b.jpg"
+      }
+    },
+    {
+      "id": 1216,
+      "common_name": "begonia",
+      "scientific_name": [
+        "Begonia 'River Nile'"
+      ],
+      "other_name": [],
+      "cycle": "Herbaceous Perennial",
+      "watering": "Average",
+      "sunlight": [
+        "part shade",
+        "part sun/part shade"
+      ],
+      "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/1216_begonia_river_nile/og/48273820461_444a667bea_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/1216_begonia_river_nile/regular/48273820461_444a667bea_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/1216_begonia_river_nile/medium/48273820461_444a667bea_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/1216_begonia_river_nile/small/48273820461_444a667bea_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/1216_begonia_river_nile/thumbnail/48273820461_444a667bea_b.jpg"
+      }
+    },
+    {
+      "id": 1217,
+      "common_name": "begonia",
+      "scientific_name": [
+        "Begonia (Semperflorens Cultorum Group)"
+      ],
+      "other_name": [],
+      "cycle": "Herbaceous Perennial",
+      "watering": "Average",
+      "sunlight": [
+        "part shade",
+        "part sun/part shade"
+      ],
+      "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/1217_begonia_semperflorens_cultorum_group/og/28769541485_d149269ecc_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/1217_begonia_semperflorens_cultorum_group/regular/28769541485_d149269ecc_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/1217_begonia_semperflorens_cultorum_group/medium/28769541485_d149269ecc_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/1217_begonia_semperflorens_cultorum_group/small/28769541485_d149269ecc_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/1217_begonia_semperflorens_cultorum_group/thumbnail/28769541485_d149269ecc_b.jpg"
+      }
+    },
+    {
+      "id": 1218,
+      "common_name": "begonia",
+      "scientific_name": [
+        "Begonia semperflorens 'Senator Deep Rose'"
+      ],
+      "other_name": [],
+      "cycle": "Herbaceous Perennial",
+      "watering": "Average",
+      "sunlight": [
+        "part shade",
+        "part sun/part shade"
+      ],
+      "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/1218_begonia_semperflorens_senator_deep_rose/og/8884235929_8f2eaa2082_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/1218_begonia_semperflorens_senator_deep_rose/regular/8884235929_8f2eaa2082_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/1218_begonia_semperflorens_senator_deep_rose/medium/8884235929_8f2eaa2082_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/1218_begonia_semperflorens_senator_deep_rose/small/8884235929_8f2eaa2082_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/1218_begonia_semperflorens_senator_deep_rose/thumbnail/8884235929_8f2eaa2082_b.jpg"
+      }
+    },
+    {
+      "id": 1219,
+      "common_name": "wax begonia",
+      "scientific_name": [
+        "Begonia semperflorens-cultorum 'Harmony Scarlet'"
+      ],
+      "other_name": [],
+      "cycle": "Herbaceous Perennial",
+      "watering": "Average",
+      "sunlight": [
+        "part shade",
+        "filtered shade"
+      ],
+      "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/1219_begonia_semperflorens-cultorum_harmony_scarlet/og/52423452233_02b4dc198b_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/1219_begonia_semperflorens-cultorum_harmony_scarlet/regular/52423452233_02b4dc198b_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/1219_begonia_semperflorens-cultorum_harmony_scarlet/medium/52423452233_02b4dc198b_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/1219_begonia_semperflorens-cultorum_harmony_scarlet/small/52423452233_02b4dc198b_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/1219_begonia_semperflorens-cultorum_harmony_scarlet/thumbnail/52423452233_02b4dc198b_b.jpg"
+      }
+    },
+    {
+      "id": 1220,
+      "common_name": "angelwing begonia",
+      "scientific_name": [
+        "Begonia 'Sinbad'"
+      ],
+      "other_name": [],
+      "cycle": "Herbaceous Perennial",
+      "watering": "Frequent",
+      "sunlight": [
+        "part shade",
+        "part sun/part shade"
+      ],
+      "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/1220_begonia_sinbad/og/3789073932_9453547ff0_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/1220_begonia_sinbad/regular/3789073932_9453547ff0_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/1220_begonia_sinbad/medium/3789073932_9453547ff0_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/1220_begonia_sinbad/small/3789073932_9453547ff0_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/1220_begonia_sinbad/thumbnail/3789073932_9453547ff0_b.jpg"
+      }
+    },
+    {
+      "id": 1221,
+      "common_name": "begonia",
+      "scientific_name": [
+        "Begonia 'Solar Flare'"
+      ],
+      "other_name": [],
+      "cycle": "Herbaceous Perennial",
+      "watering": "Average",
+      "sunlight": [
+        "part sun/part shade",
+        "filtered shade"
+      ],
+      "default_image": null
+    },
+    {
+      "id": 1222,
+      "common_name": "angelwing begonia",
+      "scientific_name": [
+        "Begonia 'Sophia'"
+      ],
+      "other_name": [],
+      "cycle": "Herbaceous Perennial",
+      "watering": "Average",
+      "sunlight": [
+        "part shade",
+        "part sun/part shade"
+      ],
+      "default_image": {
+        "license": 45,
+        "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "original_url": "https://perenual.com/storage/species_image/1222_begonia_sophia/og/Begonia_27Sophie_CC3A9cile27_1.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/1222_begonia_sophia/regular/Begonia_27Sophie_CC3A9cile27_1.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/1222_begonia_sophia/medium/Begonia_27Sophie_CC3A9cile27_1.jpg",
+        "small_url": "https://perenual.com/storage/species_image/1222_begonia_sophia/small/Begonia_27Sophie_CC3A9cile27_1.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/1222_begonia_sophia/thumbnail/Begonia_27Sophie_CC3A9cile27_1.jpg"
+      }
+    },
+    {
+      "id": 1223,
+      "common_name": "hybrid tuberous begonia",
+      "scientific_name": [
+        "Begonia tuberhybrida 'Jurassic Pink Splash'"
+      ],
+      "other_name": [],
+      "cycle": "Herbaceous Perennial",
+      "watering": "Minimum",
+      "sunlight": [
+        "part shade"
+      ],
+      "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/1223_begonia_tuberhybrida_jurassic_pink_splash/og/22656824786_be81bc2887_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/1223_begonia_tuberhybrida_jurassic_pink_splash/regular/22656824786_be81bc2887_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/1223_begonia_tuberhybrida_jurassic_pink_splash/medium/22656824786_be81bc2887_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/1223_begonia_tuberhybrida_jurassic_pink_splash/small/22656824786_be81bc2887_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/1223_begonia_tuberhybrida_jurassic_pink_splash/thumbnail/22656824786_be81bc2887_b.jpg"
+      }
+    },
+    {
+      "id": 1224,
+      "common_name": "hybrid tuberous begonia",
+      "scientific_name": [
+        "Begonia tuberhybrida 'Jurassic Silver Swirl'"
+      ],
+      "other_name": [],
+      "cycle": "Herbaceous Perennial",
+      "watering": "Average",
+      "sunlight": [
+        "part shade",
+        "part sun/part shade"
+      ],
+      "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/1224_begonia_tuberhybrida_jurassic_silver_swirl/og/28152488224_06e2aca626_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/1224_begonia_tuberhybrida_jurassic_silver_swirl/regular/28152488224_06e2aca626_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/1224_begonia_tuberhybrida_jurassic_silver_swirl/medium/28152488224_06e2aca626_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/1224_begonia_tuberhybrida_jurassic_silver_swirl/small/28152488224_06e2aca626_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/1224_begonia_tuberhybrida_jurassic_silver_swirl/thumbnail/28152488224_06e2aca626_b.jpg"
+      }
+    },
+    {
+      "id": 1225,
+      "common_name": "begonia",
+      "scientific_name": [
+        "Begonia tuberosa 'Fortune Peach Shades'"
+      ],
+      "other_name": [],
+      "cycle": "Herbaceous Perennial",
+      "watering": "Average",
+      "sunlight": [
+        "part shade",
+        "part sun/part shade"
+      ],
+      "default_image": null
+    },
+    {
+      "id": 1226,
+      "common_name": "hybrid tuberous begonia",
+      "scientific_name": [
+        "Begonia (Tuberosa Group)"
+      ],
+      "other_name": [],
+      "cycle": "Perennial",
+      "watering": "Average",
+      "sunlight": [
+        "part sun/part shade",
+        "full sun"
+      ],
+      "default_image": {
+        "license": 45,
+        "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "original_url": "https://perenual.com/storage/species_image/1226_begonia_tuberosa_group/og/Begonia_x_tuberhybrida_1005Pink1.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/1226_begonia_tuberosa_group/regular/Begonia_x_tuberhybrida_1005Pink1.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/1226_begonia_tuberosa_group/medium/Begonia_x_tuberhybrida_1005Pink1.jpg",
+        "small_url": "https://perenual.com/storage/species_image/1226_begonia_tuberosa_group/small/Begonia_x_tuberhybrida_1005Pink1.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/1226_begonia_tuberosa_group/thumbnail/Begonia_x_tuberhybrida_1005Pink1.jpg"
+      }
+    },
+    {
+      "id": 1272,
+      "common_name": "jewel plant",
+      "scientific_name": [
+        "Bertolonia maculata"
+      ],
+      "other_name": [],
+      "cycle": "Herbaceous Perennial",
+      "watering": "Frequent",
+      "sunlight": [
+        "part shade",
+        "part sun/part shade"
+      ],
+      "default_image": {
+        "license": 45,
+        "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "original_url": "https://perenual.com/storage/species_image/1272_bertolonia_maculata/og/Bertolonia_maculata_2019-04-16_0864.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/1272_bertolonia_maculata/regular/Bertolonia_maculata_2019-04-16_0864.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/1272_bertolonia_maculata/medium/Bertolonia_maculata_2019-04-16_0864.jpg",
+        "small_url": "https://perenual.com/storage/species_image/1272_bertolonia_maculata/small/Bertolonia_maculata_2019-04-16_0864.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/1272_bertolonia_maculata/thumbnail/Bertolonia_maculata_2019-04-16_0864.jpg"
+      }
+    },
+    {
+      "id": 1416,
+      "common_name": "boxwood",
+      "scientific_name": [
+        "Buxus microphylla 'Peergold' GOLDEN DREAM"
+      ],
+      "other_name": [
+        "Korean boxwood"
+      ],
+      "cycle": "Perennial",
+      "watering": "Average",
+      "sunlight": [
+        "filtered shade",
+        "full sun only if soil kept moist",
+        "part sun/part shade"
+      ],
+      "default_image": null
+    },
+    {
+      "id": 1457,
+      "common_name": "angel wings",
+      "scientific_name": [
+        "Caladium bicolor"
+      ],
+      "other_name": [
+        "angel wings"
+      ],
+      "cycle": "Perennial",
+      "watering": "Average",
+      "sunlight": [
+        "part shade",
+        "part sun/part shade"
+      ],
+      "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/1457_caladium_bicolor/og/25575875658_d782fb76f1_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/1457_caladium_bicolor/regular/25575875658_d782fb76f1_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/1457_caladium_bicolor/medium/25575875658_d782fb76f1_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/1457_caladium_bicolor/small/25575875658_d782fb76f1_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/1457_caladium_bicolor/thumbnail/25575875658_d782fb76f1_b.jpg"
+      }
+    },
+    {
+      "id": 1468,
+      "common_name": "orchid",
+      "scientific_name": [
+        "Calanthe 'Kozu Spice'"
+      ],
+      "other_name": [],
+      "cycle": "Perennial",
+      "watering": "Frequent",
+      "sunlight": [
+        "part sun/part shade",
+        "filtered shade"
+      ],
+      "default_image": null
+    },
+    {
+      "id": 1469,
+      "common_name": "rattlesnake plant",
+      "scientific_name": [
+        "Calathea lancifolia",
+        "Goeppertia insignis"
+      ],
+      "other_name": [],
+      "cycle": "Herbaceous Perennial",
+      "watering": "Average",
+      "sunlight": [
+        "part shade",
+        "part sun/part shade"
+      ],
+      "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/1469_calathea_lancifolia/og/3676781257_2e8730f471_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/1469_calathea_lancifolia/regular/3676781257_2e8730f471_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/1469_calathea_lancifolia/medium/3676781257_2e8730f471_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/1469_calathea_lancifolia/small/3676781257_2e8730f471_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/1469_calathea_lancifolia/thumbnail/3676781257_2e8730f471_b.jpg"
+      }
+    },
+    {
+      "id": 1470,
+      "common_name": "peacock plant",
+      "scientific_name": [
+        "Calathea makoyana"
+      ],
+      "other_name": [],
+      "cycle": "Herbaceous Perennial",
+      "watering": "Average",
+      "sunlight": [
+        "part shade",
+        "part sun/part shade"
+      ],
+      "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/1470_calathea_makoyana/og/5455983461_9d5ac395aa_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/1470_calathea_makoyana/regular/5455983461_9d5ac395aa_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/1470_calathea_makoyana/medium/5455983461_9d5ac395aa_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/1470_calathea_makoyana/small/5455983461_9d5ac395aa_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/1470_calathea_makoyana/thumbnail/5455983461_9d5ac395aa_b.jpg"
+      }
+    },
+    {
+      "id": 1471,
+      "common_name": "zebra plant",
+      "scientific_name": [
+        "Calathea zebrina"
+      ],
+      "other_name": [],
+      "cycle": "Herbaceous Perennial",
+      "watering": "Average",
+      "sunlight": [
+        "part shade",
+        "part sun/part shade"
+      ],
+      "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/1471_calathea_zebrina/og/24798559861_0c6830ba26_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/1471_calathea_zebrina/regular/24798559861_0c6830ba26_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/1471_calathea_zebrina/medium/24798559861_0c6830ba26_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/1471_calathea_zebrina/small/24798559861_0c6830ba26_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/1471_calathea_zebrina/thumbnail/24798559861_0c6830ba26_b.jpg"
+      }
+    },
+    {
+      "id": 1597,
+      "common_name": "ornamental pepper",
+      "scientific_name": [
+        "Capsicum annuum 'Black Pearl'"
+      ],
+      "other_name": [],
+      "cycle": "Herbaceous Perennial",
+      "watering": "Average",
+      "sunlight": [
+        "full sun"
+      ],
+      "default_image": {
+        "license": 45,
+        "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "original_url": "https://perenual.com/storage/species_image/1597_capsicum_annuum_black_pearl/og/2560px-Capsicum_annuum_Black_Pearl_6zz.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/1597_capsicum_annuum_black_pearl/regular/2560px-Capsicum_annuum_Black_Pearl_6zz.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/1597_capsicum_annuum_black_pearl/medium/2560px-Capsicum_annuum_Black_Pearl_6zz.jpg",
+        "small_url": "https://perenual.com/storage/species_image/1597_capsicum_annuum_black_pearl/small/2560px-Capsicum_annuum_Black_Pearl_6zz.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/1597_capsicum_annuum_black_pearl/thumbnail/2560px-Capsicum_annuum_Black_Pearl_6zz.jpg"
+      }
+    },
+    {
+      "id": 1598,
+      "common_name": "ornamental pepper",
+      "scientific_name": [
+        "Capsicum annuum 'Chinese Five Color'"
+      ],
+      "other_name": [],
+      "cycle": "Herbaceous Perennial",
+      "watering": "Frequent",
+      "sunlight": [
+        "full sun",
+        "part sun/part shade"
+      ],
+      "default_image": null
+    },
+    {
+      "id": 1601,
+      "common_name": "ornamental pepper",
+      "scientific_name": [
+        "Capsicum annuum 'Onyx Red'"
+      ],
+      "other_name": [],
+      "cycle": "Herbaceous Perennial",
+      "watering": "Average",
+      "sunlight": [
+        "full sun"
+      ],
+      "default_image": null
+    },
+    {
+      "id": 1603,
+      "common_name": "ornamental pepper",
+      "scientific_name": [
+        "Capsicum annuum 'Purple Flash'"
+      ],
+      "other_name": [],
+      "cycle": "Herbaceous Perennial",
+      "watering": "Average",
+      "sunlight": [
+        "full sun"
+      ],
+      "default_image": {
+        "license": 45,
+        "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "original_url": "https://perenual.com/storage/species_image/1603_capsicum_annuum_purple_flash/og/1536px-Capsicum_annuum_27Peruvian_Purple27_kz01.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/1603_capsicum_annuum_purple_flash/regular/1536px-Capsicum_annuum_27Peruvian_Purple27_kz01.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/1603_capsicum_annuum_purple_flash/medium/1536px-Capsicum_annuum_27Peruvian_Purple27_kz01.jpg",
+        "small_url": "https://perenual.com/storage/species_image/1603_capsicum_annuum_purple_flash/small/1536px-Capsicum_annuum_27Peruvian_Purple27_kz01.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/1603_capsicum_annuum_purple_flash/thumbnail/1536px-Capsicum_annuum_27Peruvian_Purple27_kz01.jpg"
+      }
+    },
+    {
+      "id": 1716,
+      "common_name": "orchid",
+      "scientific_name": [
+        "Cattleya (group)"
+      ],
+      "other_name": [],
+      "cycle": "Perennial",
+      "watering": "Average",
+      "sunlight": [
+        "part shade",
+        "part sun/part shade"
+      ],
+      "default_image": {
+        "license": 451,
+        "license_name": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "original_url": "https://perenual.com/storage/species_image/1716_cattleya_group/og/orchid-flower-colombia-flowers.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/1716_cattleya_group/regular/orchid-flower-colombia-flowers.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/1716_cattleya_group/medium/orchid-flower-colombia-flowers.jpg",
+        "small_url": "https://perenual.com/storage/species_image/1716_cattleya_group/small/orchid-flower-colombia-flowers.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/1716_cattleya_group/thumbnail/orchid-flower-colombia-flowers.jpg"
+      }
+    },
+    {
+      "id": 1820,
+      "common_name": "parlor palm",
+      "scientific_name": [
+        "Chamaedorea elegans"
+      ],
+      "other_name": [
+        "neanthe bella palm"
+      ],
+      "cycle": "Perennial",
+      "watering": "Average",
+      "sunlight": [
+        "part shade"
+      ],
+      "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/1820_chamaedorea_elegans/og/24981394791_176142abd3_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/1820_chamaedorea_elegans/regular/24981394791_176142abd3_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/1820_chamaedorea_elegans/medium/24981394791_176142abd3_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/1820_chamaedorea_elegans/small/24981394791_176142abd3_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/1820_chamaedorea_elegans/thumbnail/24981394791_176142abd3_b.jpg"
+      }
+    },
+    {
+      "id": 1821,
+      "common_name": "chamaedorea",
+      "scientific_name": [
+        "Chamaedorea microspadix"
+      ],
+      "other_name": [],
+      "cycle": "Perennial",
+      "watering": "Frequent",
+      "sunlight": [
+        "part shade"
+      ],
+      "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/1821_chamaedorea_microspadix/og/26815590515_805ab5b081_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/1821_chamaedorea_microspadix/regular/26815590515_805ab5b081_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/1821_chamaedorea_microspadix/medium/26815590515_805ab5b081_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/1821_chamaedorea_microspadix/small/26815590515_805ab5b081_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/1821_chamaedorea_microspadix/thumbnail/26815590515_805ab5b081_b.jpg"
+      }
+    }
+  ],
+  "to": 90,
+  "per_page": 30,
+  "current_page": 3,
+  "from": 61,
+  "last_page": 13,
+  "total": 381
+}
