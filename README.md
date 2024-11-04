@@ -1,0 +1,3 @@
+PlantWeb
+========
+This is a simple database of houseplants written in react using the [perenual houseplant api](https://perenual.com/docs/api). It allows the user to look through pages of houseplants with photos before clicking on ones that they are interested in and finding out more about them which could be useful for people who want to explore new varieties of house plants. The use of react and react router made it easier to iterate over arrays in the json in order to create a list of cards that could then be clicked on to reveal more information about them. In the future, I hope to maybe introduce a search function in order to make it easier to find specific plants in the database. 
