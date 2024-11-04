@@ -19,21 +19,21 @@ export default function Listings() {
   function handleNextPageClick() {
     if (page < lastPage) {
       setIsLoading(true)
-      navigate(`/${parseInt(page) + 1}`)
+      navigate(`/PlantWeb/${parseInt(page) + 1}`)
     }
   }
 
   function handlePreviousPageClick() {
     if (page > 1) {
       setIsLoading(true)
-      navigate(`/${parseInt(page) - 1}`)
+      navigate(`/PlantWeb/${parseInt(page) - 1}`)
     }
   }
 
   React.useEffect(() => {
     if (page) {
     } else {
-      navigate(`/1`)
+      navigate(`/PlantWeb/1`)
     }
   }, [])
 

@@ -8,9 +8,9 @@ export default function App() {
   return (
     <BrowserRouter>
           <Routes>
-            <Route path="/" element={ <Listings/> } />
-            <Route path="/:page" element={ <Listings/> } />
-            <Route path="/details/:id" element={<Details/>} />
+            <Route path="/PlantWeb" element={ <Listings/> } />
+            <Route path="/PlantWeb/:page" element={ <Listings/> } />
+            <Route path="/PlantWeb/details/:id" element={<Details/>} />
           </Routes>
     </BrowserRouter>
   )

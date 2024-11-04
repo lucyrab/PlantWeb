@@ -58,7 +58,7 @@ export default function Card(props) {
         {isImageShowing ? (
             
             <div className="card">
-        <Link className="card--link" to={`/details/${props.id}`}>
+        <Link className="card--link" to={`/PlantWeb/details/${props.id}`}>
             {props.default_image && props.default_image.original_url && props.default_image.original_url != "https://perenual.com/storage/image/upgrade_access.jpg" ? (
                 !isImageError && <img onError={handleImageError} className="card--img" src={props.default_image.original_url} /> ) :  !isImageError && <img onError={handleImageError} className="card--img" src={otherImage} />}
                 
