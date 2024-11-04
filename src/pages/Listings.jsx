@@ -39,9 +39,13 @@ export default function Listings() {
 
   React.useEffect(() => {
     async function getPlants() {
-      const res = await fetch(`https://perenual.com/api/species-list?key=sk-Jg9s663df495540785412&indoor=1&order=asc&page=${page}`)
+      const res = await fetch(`https://perenual.com/api/species-list?key=sk-LK8y663f68e03d7325424&indoor=1&order=asc&page=${page}`)
       const data = await res.json()
-      setPlantData(data.data)
+      setPlantData(data.data.map((plant)=> {      
+        return {
+          ...plant
+        }
+      }))
       setLastPage(data.last_page)
     }
     getPlants()
@@ -55,7 +59,8 @@ export default function Listings() {
       behavior: "smooth",
     })
     if (plantData && plantData[0] && plantData[0].id) {
-      setShownItems(plantData.filter(plant => plant.default_image && plant.default_image.original_url != "https://perenual.com/storage/image/upgrade_access.jpg"))
+      //setShownItems(plantData.filter(plant => plant.default_image && plant.default_image.original_url != "https://perenual.com/storage/image/upgrade_access.jpg"))
+      setShownItems(plantData)
       setIsLoading(false)
     }
   }, [plantData])

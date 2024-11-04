@@ -13,8 +13,9 @@ body {
     border-radius: 10px;
     margin: 7px;
     transition: transform 0.4s ease;
-
-    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
 }
 
 .card:hover {
