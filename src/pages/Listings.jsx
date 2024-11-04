@@ -32,6 +32,9 @@ export default function Listings() {
 
   React.useEffect(() => {
     if (page) {
+      if (Number.isInteger(page) == False) {
+        navigate(`/PlantWeb/1`)
+      }
     } else {
       navigate(`/PlantWeb/1`)
     }
