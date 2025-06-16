@@ -12,7 +12,7 @@ export default function Details() {
 
   React.useEffect(() => {
     async function getPlant() {
-      const res = await fetch(`https://perenual.com/api/species/details/${id}?key=sk-Jg9s663df495540785412`)
+      const res = await fetch(`https://perenual.com/api/v2/species/details/${id}?key=sk-Jg9s663df495540785412`)
       const data = await res.json()
       setPlantInfo(data)
     }

@@ -32,9 +32,7 @@ export default function Listings() {
 
   React.useEffect(() => {
     if (page) {
-      if (Number.isInteger(page) == False) {
-        navigate(`/PlantWeb/1`)
-      }
+      console.log(page)
     } else {
       navigate(`/PlantWeb/1`)
     }
@@ -42,7 +40,7 @@ export default function Listings() {
 
   React.useEffect(() => {
     async function getPlants() {
-      const res = await fetch(`https://perenual.com/api/species-list?key=sk-LK8y663f68e03d7325424&indoor=1&order=asc&page=${page}`)
+      const res = await fetch(`https://perenual.com/api/v2/species-list?key=sk-8gVA66391a39bbfae5366&indoor=1&page=${page}`)
       const data = await res.json()
       setPlantData(data.data.map((plant)=> {      
         return {
